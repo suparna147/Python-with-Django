@@ -1,0 +1,39 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>View LMS</title>
+    <link rel="stylesheet" href="{%  static 'css/viewlib.css' %}">
+</head>
+<body>
+<div class="container">
+<h1>Library MANAGEMENT SYSTEM</h1>
+  <table class="rwd-table">
+    <tbody>
+      <tr>
+        <th>Full Name</th>
+        <th>Mobile Number</th>
+        <th>EMAIL</th>
+        <th>Book Name</th>
+        <th>Author Name</th>
+        <th>Borrow Book Date and Time</th>
+        <th>Return Book Date and Time</th>
+      </tr>
+      {% for i in data %}
+      <tr>
+      <td>{{ i.fname }}</td>
+      <td>{{ i.mobno }}</td>
+      <td>{{ i.email }}</td>
+      <td>{{ i.bokname }}</td>
+      <td>{{ i.autname }}</td>
+      <td>{{ i.bordt }}</td>
+      <td>{{ i.retdt }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+
+</div>
+</body>
+</html>

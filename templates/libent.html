@@ -1,0 +1,47 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Library Management System</title>
+    <link href="{%  static 'css/registerss.css' %}" rel="stylesheet">
+
+</head>
+<body>
+ <form class="form" method="post">
+             {% csrf_token %}
+            <h1 class="heading">Library Management System</h1>
+            <div class="input-group">
+                  <label for="username" class="label">Fullname</label>
+                  <input type="text" id="username" class="input" name="fname" required>
+            </div>
+            <div class="input-group">
+                  <label for="username" class="label">Mobile Number</label>
+                  <input type="text" id="username" class="input" name="mobno" required>
+            </div>
+            <div class="input-group">
+                  <label for="username" class="label">Email</label>
+                  <input type="email" id="username" class="input" name="email" required>
+            </div>
+            <div class="input-group">
+                  <label for="username" class="label">Book Name</label>
+                  <input type="text" id="username" class="input" name="bname" required>
+            </div>
+            <div class="input-group">
+                  <label for="username" class="label">Author Name</label>
+                  <input type="text" id="username" class="input" name="aname" required>
+            </div>
+            <div class="input-group">
+                  <label for="username" class="label">Borrow Book Date and Time</label>
+                  <input type="datetime-local" id="username" class="input" name="bokdt" required>
+            </div>
+            <div class="input-group">
+                  <label for="password" class="label">Return Book Date and Time</label>
+                  <input type="datetime-local" id="password" class="input" name="retdt" required>
+            </div>
+            <div class="btn-group">
+                  <button class="btn-login">Submit</button>
+            </div>
+      </form>
+</body>
+</html>

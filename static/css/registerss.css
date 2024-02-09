@@ -1,0 +1,140 @@
+*,
+*::after,
+*::before{
+      padding: 0;
+      margin: 0;
+      box-sizing: border-box;
+}
+
+:root{
+      --color-purple-100:#7775d3;
+      --color-purple-200:#6a69ca;
+      --color-purple-300:#474787;
+      --color-white:#FFFFFF;
+}
+
+body{
+      min-height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-color: var(--color-purple-200);
+      font-family: 'Lato', sans-serif;
+}
+
+
+.form{
+      width: 24rem;
+      background-color: var(--color-white);
+      padding: 4rem 3rem;
+      border-radius: 50% / 10%;
+      box-shadow: 0 2rem 4rem 0 rgba(113,111,211,.5),
+                  inset 0 -.5rem 1rem 0 var(--color-purple-200);
+      display: flex;
+      flex-direction: column;
+      gap: 1.5rem;
+}
+
+.heading{
+      font-size: 1.8rem;
+      text-align: center;
+}
+
+.label{
+      font-size: 1.2rem;
+      display: block;
+      margin-bottom: .5rem;
+      color: var(--color-purple-100);
+}
+
+.input{
+      display: block;
+      width: 100%;
+      font-family: inherit;
+      font-size: 1.2rem;
+      padding: .5rem;
+      border: 1px solid var(--color-purple-200);
+      color: var(--color-purple-100);
+      border-radius: 4px;
+}
+
+.input:focus{
+      outline: 1px solid var(--color-purple-300);
+      color: var(--color-purple-300);
+}
+
+.btn-group{
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+}
+
+.btn-login{
+      padding: .8rem 2rem;
+      border: none;
+      background-color:var(--color-purple-200);
+      border-radius:1rem;
+      color:var(--color-white);
+      font-size: 1.1rem;
+}
+
+.btn-login:hover{
+      background-color: var(--color-purple-100);
+}
+
+.btn-forget-password{
+      text-decoration: none;
+}
+
+.btn-forget-password:hover{
+      color: var(--color-purple-100);
+}
+
+
+.btn-watch-now{
+    position: fixed;
+    bottom: 3rem;
+    right: 3rem;
+    text-decoration: none;
+    width: 5rem;
+    height: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    font-size: 2.4rem;
+    color: red;
+    background-color: #fff;
+}
+
+.btn-watch-now::after,
+.btn-watch-now::before{
+    content: '';
+    position: absolute;
+    width: inherit;
+    height: inherit;
+    border-radius: inherit;
+    left: 50%;
+    top:50%;
+    transform: translate(-50%,-50%);
+    border: 2px solid #fff;
+    animation: scaling 1s infinite;
+    z-index: -1;
+}
+
+
+.btn-watch-now::before{
+    animation: scaling 1s .2s infinite;
+}
+
+
+@keyframes scaling {
+    0%{
+        transform: translate(-50%,-50%) scale(1);
+    }
+
+    100%{
+        transform: translate(-50%,-50%) scale(1.2);
+        opacity: 0;
+    }
+}

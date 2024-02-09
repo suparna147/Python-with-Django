@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1582d11d-91e7-48e0-8dc3-50898379b981" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../djangoProject/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/app/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/app/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/app/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/app/migrations/0002_pcm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/app/migrations/0003_alter_pcm_comdt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/app/migrations/0004_alter_pcm_comdt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/app/migrations/0005_alter_pcm_comdt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/app/migrations/0006_alter_pcm_comdt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/app/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/app/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/app/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/app/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/static/css/pcmss.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/static/css/registerstyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/static/css/viewpcmss.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/static/img/Complaint-email.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/static/img/Complaint.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/static/img/Complaint1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/static/img/Complaint2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/static/img/Complaint3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/static/img/Complaint4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/static/img/Complaint5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/static/img/Complaint6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/static/img/Complaint7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/static/img/Complaint8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/static/img/Complaint9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/templates/pcm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/templates/viewpcm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gkgeoropclvoiceass/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../labctrlvoas/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/bootstrap-icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/registerss.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/templatemo-topic-listing.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/viewlib.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/bootstrap-icons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/bootstrap-icons.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/businesswoman-using-tablet-analysis.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/colleagues-working-cozy-office-medium-shot.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/faq_graphic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/libary.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/rear-view-young-college-student.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/topics/colleagues-working-cozy-office-medium-shot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/topics/undraw_Compose_music_re_wpiw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/topics/undraw_Educator_re_ju47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/topics/undraw_Finance_re_gnv2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/topics/undraw_Graduation_re_gthn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/topics/undraw_Group_video_re_btu7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/topics/undraw_Podcast_audience_re_4i5q.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/topics/undraw_Redesign_feedback_re_jvm0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/topics/undraw_Remote_design_team_re_urdx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/topics/undraw_happy_music_g6wc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/topics/undraw_online_ad_re_ol62.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/topics/undraw_viral_tweet_gndb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/yale library.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/click-scroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/jquery.sticky.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/libent.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/viewlib.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmanagesys/app/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmanagesys/app/migrations/0002_patent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmanagesys/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmanagesys/static/10130.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmanagesys/static/css/bootstrap-icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmanagesys/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmanagesys/static/css/registercss.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmanagesys/static/css/templatemo-kind-heart-charity.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmanagesys/static/css/viewpatss.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmanagesys/static/fonts/Metropolis/Metropolis-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmanagesys/static/fonts/Metropolis/Metropolis-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmanagesys/static/fonts/Metropolis/Metropolis-Light.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmanagesys/static/fonts/Metropolis/Metropolis-Light.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmanagesys/static/fonts/Metropolis/Metropolis-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmanagesys/static/fonts/Metropolis/Metropolis-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmanagesys/static/fonts/Metropolis/Metropolis-SemiBold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmanagesys/static/fonts/Metropolis/Metropolis-SemiBold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmanagesys/static/fonts/bootstrap-icons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmanagesys/static/fonts/bootstrap-icons.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmanagesys/static/images/10130.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmanagesys/static/images/avatar/portrait-beautiful-young-woman-standing-grey-wall.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmanagesys/static/images/avatar/portrait-young-beautiful-woman-gesticulating.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmanagesys/static/images/avatar/portrait-young-redhead-bearded-male.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmanagesys/static/images/avatar/pretty-blonde-woman-wearing-white-t-shirt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmanagesys/static/images/avatar/studio-portrait-emotional-happy-funny.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmanagesys/static/images/causes/african-woman-pouring-water-recipient-outdoors.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmanagesys/static/images/causes/group-african-kids-paying-attention-class.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmanagesys/static/images/causes/poor-child-landfill-looks-forward-with-hope.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmanagesys/static/images/different-people-doing-volunteer-work.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmanagesys/static/images/icons/hands.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmanagesys/static/images/icons/heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmanagesys/static/images/icons/receive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmanagesys/static/images/icons/scholarship.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmanagesys/static/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmanagesys/static/images/news/africa-humanitarian-aid-doctor.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmanagesys/static/images/news/close-up-happy-people-working-together.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmanagesys/static/images/news/close-up-volunteer-oganizing-stuff-donation.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmanagesys/static/images/news/medium-shot-people-collecting-foodstuff.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmanagesys/static/images/news/medium-shot-volunteers-with-clothing-donations.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmanagesys/static/images/portrait-volunteer-who-organized-donations-charity.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmanagesys/static/images/slide/medium-shot-people-collecting-donations.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmanagesys/static/images/slide/volunteer-helping-with-donation-box.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmanagesys/static/images/slide/volunteer-selecting-organizing-clothes-donations-charity.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmanagesys/static/images/smiling-casual-woman-dressed-volunteer-t-shirt-with-badge.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmanagesys/static/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmanagesys/static/js/click-scroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmanagesys/static/js/counter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmanagesys/static/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmanagesys/static/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmanagesys/static/js/jquery.sticky.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmanagesys/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmanagesys/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmanagesys/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmanagesys/templates/patentry.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmanagesys/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patmanagesys/templates/viewpat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weathervoiceass/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2RLkf26oMxcAVrMW7EW3oD6jVSL" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/nandh/PycharmProjects/libmss/static/images&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nandh\PycharmProjects\libmss\static\images" />
+      <recent name="C:\Users\nandh\PycharmProjects\libmss\static" />
+      <recent name="C:\Users\nandh\PycharmProjects\libmss\templates" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="libmss" type="Python.DjangoServer" factoryName="Django server">
+      <module name="libmss" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1582d11d-91e7-48e0-8dc3-50898379b981" name="Changes" comment="" />
+      <created>1687036849224</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687036849224</updated>
+      <workItem from="1687036866103" duration="977000" />
+      <workItem from="1687069858760" duration="6657000" />
+      <workItem from="1687078396277" duration="23000" />
+      <workItem from="1687078428257" duration="312000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

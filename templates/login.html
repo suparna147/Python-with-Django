@@ -1,0 +1,29 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Register</title>
+    <link href="{%  static 'css/registerss.css' %}" rel="stylesheet">
+
+</head>
+<body>
+ <form class="form" method="post">
+             {% csrf_token %}
+            <h1 class="heading">Login Here!!</h1>
+            <div class="input-group">
+                  <label for="username" class="label">Username</label>
+                  <input type="text" id="username" class="input" name="username" required>
+            </div>
+            <div class="input-group">
+                  <label for="password" class="label">Password</label>
+                  <input type="password" id="password" class="input" name="pwrd" required>
+            </div>
+            <p style="text-align: center"><b>{{ status }}</b></p>
+            <div class="btn-group">
+                  <button class="btn-login">Login</button>
+                  <a href="http://127.0.0.1:8000/register" class="btn-forget-password" style="text-align: right;">Create a Account</a>
+            </div>
+      </form>
+</body>
+</html>
